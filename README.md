@@ -1,2 +1,1 @@
-# Alsadig.com
-developer
+its alsadig here 
